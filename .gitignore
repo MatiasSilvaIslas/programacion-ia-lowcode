@@ -1,0 +1,31 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Caché y archivos temporales de Jupyter
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Configuración local
+.env
+.env.*
+!.env.example
+
+# Configuración del editor
+.vscode/
+.idea/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de salida generados
+**/salidas/
+
+# Archivos de logs
+*.log

@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Lámpara",
+        "precio": 25000.0,
+        "stock": 8
+    },
+    {
+        "nombre": "Silla",
+        "precio": 45000.0,
+        "stock": 3
+    }
+]
